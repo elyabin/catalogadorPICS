@@ -1,0 +1,24 @@
+c:\users\sistemasweb2\documents\visual studio 2010\Projects\Catalogador\Catalogador\bin\Debug\Catalogador.exe
+c:\users\sistemasweb2\documents\visual studio 2010\Projects\Catalogador\Catalogador\bin\Debug\Catalogador.pdb
+c:\users\sistemasweb2\documents\visual studio 2010\Projects\Catalogador\Catalogador\obj\x86\Debug\Catalogador.Form1.resources
+c:\users\sistemasweb2\documents\visual studio 2010\Projects\Catalogador\Catalogador\obj\x86\Debug\Catalogador.Properties.Resources.resources
+c:\users\sistemasweb2\documents\visual studio 2010\Projects\Catalogador\Catalogador\obj\x86\Debug\Catalogador.csproj.GenerateResource.Cache
+c:\users\sistemasweb2\documents\visual studio 2010\Projects\Catalogador\Catalogador\obj\x86\Debug\Catalogador.exe
+c:\users\sistemasweb2\documents\visual studio 2010\Projects\Catalogador\Catalogador\obj\x86\Debug\Catalogador.pdb
+C:\Users\sistemasweb2\documents\visual studio 2010\Projects\Catalogador\Catalogador\obj\x86\Debug\Catalogador.csprojResolveAssemblyReference.cache
+C:\Users\joel.diaz\Desktop\Repositorio\trunk\Catalogador\Catalogador\obj\x86\Debug\Catalogador.exe
+C:\Users\joel.diaz\Desktop\Repositorio\trunk\Catalogador\Catalogador\obj\x86\Debug\Catalogador.pdb
+C:\Users\joel.diaz\Desktop\Repositorio\trunk\Catalogador\Catalogador\bin\Debug\Catalogador.exe
+C:\Users\joel.diaz\Desktop\Repositorio\trunk\Catalogador\Catalogador\bin\Debug\Catalogador.pdb
+C:\Users\joel.diaz\Desktop\Repositorio\trunk\Catalogador\Catalogador\obj\x86\Debug\Catalogador.csprojResolveAssemblyReference.cache
+C:\Users\joel.diaz\Desktop\Repositorio\trunk\Catalogador\Catalogador\obj\x86\Debug\Catalogador.Form1.resources
+C:\Users\joel.diaz\Desktop\Repositorio\trunk\Catalogador\Catalogador\obj\x86\Debug\Catalogador.Properties.Resources.resources
+C:\Users\joel.diaz\Desktop\Repositorio\trunk\Catalogador\Catalogador\obj\x86\Debug\Catalogador.csproj.GenerateResource.Cache
+C:\Users\joel.diaz\Desktop\Catalogador\Catalogador\obj\x86\Debug\Catalogador.exe
+C:\Users\joel.diaz\Desktop\Catalogador\Catalogador\obj\x86\Debug\Catalogador.pdb
+C:\Users\joel.diaz\Desktop\Catalogador\Catalogador\bin\Debug\Catalogador.exe
+C:\Users\joel.diaz\Desktop\Catalogador\Catalogador\bin\Debug\Catalogador.pdb
+C:\Users\joel.diaz\Desktop\Catalogador\Catalogador\obj\x86\Debug\Catalogador.csprojResolveAssemblyReference.cache
+C:\Users\joel.diaz\Desktop\Catalogador\Catalogador\obj\x86\Debug\Catalogador.Form1.resources
+C:\Users\joel.diaz\Desktop\Catalogador\Catalogador\obj\x86\Debug\Catalogador.Properties.Resources.resources
+C:\Users\joel.diaz\Desktop\Catalogador\Catalogador\obj\x86\Debug\Catalogador.csproj.GenerateResource.Cache
